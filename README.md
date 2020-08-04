@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirwhod" alt="sirwhod" /> </p>
 
-- 👨‍💻 All of my projects are available at [rodrigobrandao.netlify.app/index.html](rodrigobrandao.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/sirwhod)
 
 - 💬 Ask me about **HTML5, REACT, REACT NATIVE, REACT JS, CSS3 and JavaScript**
 
-- 📫 How to reach me **rodrigo.brandao98@gmail.com**
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-rodrigo.brandao98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brandao98@gmail.com)](mailto:rodrigo.brandao98@gmail.com)
 
 - ⚡ Fun fact **I Love Naruto!**
 
