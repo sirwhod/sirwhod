@@ -5,7 +5,7 @@
 - 👨‍💻 Todos os meus Projetos estão disponíveis no [Meu Github](https://github.com/sirwhod)
 - ⚡ Fun fact **I Love Naruto!**
 
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-direction: column"><br>
   <h1 align="left"> Tenho experiência</h1>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   ##
