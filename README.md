@@ -9,3 +9,5 @@
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-rodrigo.brandao98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brandao98@gmail.com)](mailto:rodrigo.brandao98@gmail.com)
 
 - ⚡ Fun fact **I Love Naruto!**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirwhod&show_icons=true&theme=radical)
