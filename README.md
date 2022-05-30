@@ -15,5 +15,7 @@ Tenho interesse:    [https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devico
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-rodrigo.brandao98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brandao98@gmail.com)](mailto:rodrigo.brandao98@gmail.com)
 
 - ⚡ Fun fact **I Love Naruto!**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirwhod&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirwhod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwhod&layout=compact&langs_count=7&theme=dracula"/>
+</div>
