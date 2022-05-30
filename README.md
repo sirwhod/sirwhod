@@ -5,22 +5,16 @@
 - 👨‍💻 Todos os meus Projetos estão disponíveis no [Meu Github](https://github.com/sirwhod)
 - ⚡ Fun fact **I Love Naruto!**
 
-<div style="display: flex; flex-direction: row; gap: 15px; justify-content: center"><br>
-  <div style="display: flex; flex-direction: column; gap: 10px; border: none; border-right: 1px solid black; padding-right: 5px">
+<div style="display: inline_block; border-rright: 1px solid #000" align="center"><br>
+
   <text align="left"> Tenho experiência</text>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 10px; border: none; border-right: 1px solid black; padding-right: 5px">
-   <text align="left"> Estou Estudando</text>
-   <div style="display: flex; flex-direction: row; gap: 10px">
+  <text align="left"> Estou Estudando</text>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 10px">
   <text align="left"> Tenho Interesse</text>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
+
 </div><br>
 
 ##
