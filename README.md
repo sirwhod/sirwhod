@@ -1,9 +1,19 @@
 <h1 align="center">Olá 🖐, me chamo Rodrigo Brandão! 🚀</h1>
 <h3 align="center">Estudante - Front-end Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirwhod" alt="sirwhod" /> </p>
+
+<p align="left">
+  Apaixonado por desenhos e design de interfaces,<br> Estou me formando em Sistemas para internet no primeiro periodo de 2022,<br> Voltando aos estudos pela Rocketseat desde Maio, continuo fascinado pela área e cada dia querendo apender mais!
+
+  <strong>#NeverStopLearning #NextLevelLife</strong>
+</p>
 
 - 👨‍💻 Todos os meus Projetos estão disponíveis no [Meu Github](https://github.com/sirwhod)
+- 🔗 Todas as [Minhas Redes](https://beacons.ai/rodrigobrandao)
 - ⚡ Fun fact **I Love Naruto!**
+
+<h3 align="center">Tecnologias 🖥</h3>
+
+##
 
 <div style="display: inline_block; border-rright: 1px solid #000" align="center"><br>
 
@@ -19,6 +29,15 @@
 
 ##
 <div align="center">
+  <h3 align="center">Github Stats</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirwhod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwhod&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+
+<div> 
+
+  ![Snake animation](https://github.com/sirwhod/sirwhod/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
