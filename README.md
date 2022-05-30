@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Brandão</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 🖐, me chamo Rodrigo Brandão! 🚀</h1>
+<h3 align="center">Estudante - Front-end Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirwhod" alt="sirwhod" /> </p>
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/sirwhod)
+- 👨‍💻 Todos os meus Projetos estão disponíveis no [Meu Github](https://github.com/sirwhod)
 
-- 💬 Ask me about **HTML5, REACT, REACT NATIVE, REACT JS, CSS3 and JavaScript**
+- 💬 Tecnologias:
+- Tenho experiência: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+- Estou Estudando: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+- Tenho interesse: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-rodrigo.brandao98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.brandao98@gmail.com)](mailto:rodrigo.brandao98@gmail.com)
 
