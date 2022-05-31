@@ -8,7 +8,7 @@
 </p>
 
 - 👨‍💻 Todos os meus Projetos estão disponíveis no [Meu Github](https://github.com/sirwhod)
-- 🔗 Todas as [Minhas Redes](https://beacons.ai/rodrigobrandao)
+- 🔗 Todas as [Minhas Redes](http://brandaotech.com/vcrodrigo.html)
 - ⚡ Fun fact **I Love Naruto!**
 
 <h3 align="center">Tecnologias 🖥</h3>
