@@ -1,5 +1,5 @@
 <h1 align="center">Olá 🖐, me chamo Rodrigo Brandão! 🚀</h1>
-<h3 align="center">Estudante - Front-end Developer</h3>
+<h3 align="center">Full Stack Developer | TypeScript | ReactJS | NodeJS</h3>
 
 <p align="left">
   Apaixonado por desenhos e design de interfaces,<br> Estou formando em Sistemas para internet,<br> Voltando aos estudos pela Descomplica em Ciências da Computação, continuo fascinado pela área e cada dia querendo apender mais!
