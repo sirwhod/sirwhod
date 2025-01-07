@@ -13,7 +13,7 @@
 Desenvolvedor apaixonado por tecnologia e design de interfaces, com experiência em:
 - 🎨 Desenvolvimento Frontend com React e React Native
 - 🛠️ Arquitetura backend robusta com NestJS
-- 🔄 APIs RESTful e microsserviços
+- 🔄 APIs RESTful
 - 📱 Aplicações mobile multiplataforma
 
 ## 🚀 Stack Técnica
